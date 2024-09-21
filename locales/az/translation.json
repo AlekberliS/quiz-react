@@ -1,0 +1,9 @@
+{
+    "welcome": "Sınağa xoş gəlmisiniz!",
+    "startQuiz": "Sınağa Başla",
+    "quizCompleted": "Sınaq Tamamlandı!",
+    "yourScore": "Sizin Balınız: {{total}} üzərindən {{score}} ",
+    "nextQuestion": "Növbəti Sual",
+    "restartQuiz": "Sınağı yenidən başlat"
+  }
+  

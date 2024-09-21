@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to the Quiz!",
+  "startQuiz": "Start Quiz",
+  "quizCompleted": "Quiz Completed!",
+  "yourScore": "Your Score: {{score}} out of {{total}}",
+  "nextQuestion": "Next Question",
+  "restartQuiz": "Restart Quiz"
+}
