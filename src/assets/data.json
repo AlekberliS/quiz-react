@@ -1,0 +1,166 @@
+{"en":[
+    {
+        "question": "Which of the following is the correct name of React.js?",
+        "op1": "React",
+        "op2": "React.js",
+        "op3": "ReactJS",
+        "op4": "All the above",
+        "ans": "op4"
+    },
+    {
+        "question": "Which of the following are the advantages of React.js?",
+        "op1": "React.js can increase the application's performance with Virtual DOM.",
+        "op2": "React.js is easy to integrate with other frameworks such as Angular, BackboneJS since it is only a view library.",
+        "op3": "React.js can render both on client and server side.",
+        "op4": "All the above",
+        "ans": "op4"
+    },
+    {
+        "question": "Which of the following is not a disadvantage of React.js?",
+        "op1": "React.js has only a view layer. We have to put your code for Ajax requests, events, and so on.",
+        "op2": "The library of React.js is pretty large.",
+        "op3": "The JSX in React.js makes code easy to read and write.",
+        "op4": "The learning curve can be steep in React.js.",
+        "ans": "op3"
+    },
+    {
+        "question": "What is JSX in React.js?",
+        "op1": "A JavaScript syntax extension",
+        "op2": "A special library for handling DOM",
+        "op3": "A tool to build APIs",
+        "op4": "None of the above",
+        "ans": "op1"
+    },
+    {
+        "question": "What is the purpose of Virtual DOM in React.js?",
+        "op1": "To improve performance by updating the real DOM in batches",
+        "op2": "To completely replace the real DOM",
+        "op3": "To manage state in components",
+        "op4": "To handle events in React.js",
+        "ans": "op1"
+    },
+    {
+        "question": "Which method in React.js is used to update the state in a component?",
+        "op1": "updateState()",
+        "op2": "setState()",
+        "op3": "changeState()",
+        "op4": "modifyState()",
+        "ans": "op2"
+    },
+    {
+        "question": "Which of the following is true about React.js components?",
+        "op1": "Components are always stateful.",
+        "op2": "Components are reusable.",
+        "op3": "Components cannot be nested.",
+        "op4": "Components must return multiple elements.",
+        "ans": "op2"
+    },
+    {
+        "question": "Which of the following is used for handling side effects in functional React components?",
+        "op1": "useState",
+        "op2": "useEffect",
+        "op3": "useContext",
+        "op4": "useReducer",
+        "ans": "op2"
+    },
+    {
+        "question": "What is the purpose of keys in React.js?",
+        "op1": "To identify elements in a list for performance optimization",
+        "op2": "To trigger re-renders of components",
+        "op3": "To define component props",
+        "op4": "To bind events in JSX",
+        "ans": "op1"
+    },
+    {
+        "question": "Which of the following can be used for managing global state in React.js?",
+        "op1": "useState",
+        "op2": "useReducer",
+        "op3": "Redux",
+        "op4": "All of the above",
+        "ans": "op4"
+    }
+],
+"az":[
+    {
+        "question": "Aşağıdakılardan hansıdır React.js-in düzgün adı?",
+        "op1": "React",
+        "op2": "React.js",
+        "op3": "ReactJS",
+        "op4": "Hamısı",
+        "ans": "op4"
+    },
+    {
+        "question": "Aşağıdakılardan hansılar React.js-in üstünlükləridir?",
+        "op1": "React.js Virtual DOM ilə tətbiqin performansını artıra bilər.",
+        "op2": "React.js yalnız bir görünüş kitabxanası olduğu üçün Angular, BackboneJS kimi digər çərçivələrlə asanlıqla inteqrasiya oluna bilər.",
+        "op3": "React.js həm müştəri, həm də server tərəfdə render edə bilər.",
+        "op4": "Hamısı",
+        "ans": "op4"
+    },
+    {
+        "question": "Aşağıdakılardan hansıdır React.js-in dezavantajı deyil?",
+        "op1": "React.js yalnız görünüş qatına malikdir. Ajax sorğuları, hadisələr və s. üçün kodumuzu daxil etməliyik.",
+        "op2": "React.js kitabxanası kifayət qədər böyükdür.",
+        "op3": "React.js-də JSX kodu oxumağı və yazmağı asanlaşdırır.",
+        "op4": "React.js-də öyrənmə əyrisi dik ola bilər.",
+        "ans": "op3"
+    },
+    {
+        "question": "React.js-də JSX nədir?",
+        "op1": "JavaScript sintaksis genişlənməsi",
+        "op2": "DOM-u idarə etmək üçün xüsusi kitabxana",
+        "op3": "API-lər yaratmaq üçün bir vasitə",
+        "op4": "Heç biri",
+        "ans": "op1"
+    },
+    {
+        "question": "React.js-də Virtual DOM-un məqsədi nədir?",
+        "op1": "Performansı artırmaq üçün real DOM-u qruplar şəklində yeniləmək",
+        "op2": "Real DOM-u tamamilə əvəz etmək",
+        "op3": "Komponentlərdə vəziyyəti idarə etmək",
+        "op4": "React.js-də hadisələri idarə etmək",
+        "ans": "op1"
+    },
+    {
+        "question": "React.js-də hansı metod komponentdə vəziyyəti yeniləmək üçün istifadə olunur?",
+        "op1": "updateState()",
+        "op2": "setState()",
+        "op3": "changeState()",
+        "op4": "modifyState()",
+        "ans": "op2"
+    },
+    {
+        "question": "Aşağıdakılardan hansıdır React.js komponentləri ilə bağlı doğrudur?",
+        "op1": "Komponentlər həmişə vəziyyətlidir.",
+        "op2": "Komponentlər təkrar istifadə edilə bilər.",
+        "op3": "Komponentlər yuvalana bilməz.",
+        "op4": "Komponentlər mütləq bir neçə elementi geri qaytarmalıdır.",
+        "ans": "op2"
+    },
+    {
+        "question": "Funksional React komponentlərində yan təsirləri idarə etmək üçün nə istifadə olunur?",
+        "op1": "useState",
+        "op2": "useEffect",
+        "op3": "useContext",
+        "op4": "useReducer",
+        "ans": "op2"
+    },
+    {
+        "question": "React.js-də açarların məqsədi nədir?",
+        "op1": "Siyahıdakı elementləri tanımaq və performansı optimallaşdırmaq üçün",
+        "op2": "Komponentlərin təkrar render edilməsini təmin etmək",
+        "op3": "Komponent parametrini təyin etmək",
+        "op4": "JSX-də hadisələri bağlamaq",
+        "ans": "op1"
+    },
+    {
+        "question": "React.js-də qlobal vəziyyəti idarə etmək üçün nə istifadə oluna bilər?",
+        "op1": "useState",
+        "op2": "useReducer",
+        "op3": "Redux",
+        "op4": "Hamısı",
+        "ans": "op4"
+    }
+]
+
+}
